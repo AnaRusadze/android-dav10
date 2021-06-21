@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert_image_url">Insert Image Url</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_email">Enter email</string>
+    <string name="invalid_image_url">invalid image url</string>
+    <string name="save_data">Save Data</string>
+</resources>
